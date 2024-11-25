@@ -1,0 +1,45 @@
+{
+  "resources/images/Asyifah.png": {
+    "file": "assets/Asyifah-BcOVvn0I.png",
+    "src": "resources/images/Asyifah.png"
+  },
+  "resources/images/Gyoza1.png": {
+    "file": "assets/Gyoza1-CeJM6HrY.png",
+    "src": "resources/images/Gyoza1.png"
+  },
+  "resources/images/Gyoza2.png": {
+    "file": "assets/Gyoza2-i-8QUPP6.png",
+    "src": "resources/images/Gyoza2.png"
+  },
+  "resources/images/GyozaKering.jpg": {
+    "file": "assets/GyozaKering-CxYAd6ih.jpg",
+    "src": "resources/images/GyozaKering.jpg"
+  },
+  "resources/images/GyozaMentai.jpg": {
+    "file": "assets/GyozaMentai-CAuVVcpz.jpg",
+    "src": "resources/images/GyozaMentai.jpg"
+  },
+  "resources/images/GyozaRebus.jpg": {
+    "file": "assets/GyozaRebus-DWc_-08N.jpg",
+    "src": "resources/images/GyozaRebus.jpg"
+  },
+  "resources/images/Logo.png": {
+    "file": "assets/Logo-9aKTjAm2.png",
+    "src": "resources/images/Logo.png"
+  },
+  "resources/images/Rosyidah.png": {
+    "file": "assets/Rosyidah-DuqsWvZb.png",
+    "src": "resources/images/Rosyidah.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CrG75o6_.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-BaVMVknW.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}

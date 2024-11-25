@@ -1,0 +1,72 @@
+// Fonts
+// @import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+// @import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// Bootstrap Icons
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.custom-navbar {
+    max-width: 1000px;
+    margin: 0 auto;
+    border-radius: 30px;
+    background-color: #f5f5f5;
+    padding: 5px 20px 0;
+  }
+  .bg{
+    color: white;
+    background-color: #6F381B;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
+
+  .mb {
+    margin-bottom: 10em;
+  }
+
+
+  .bg1{
+    background-color: #6F381B;
+    color: white;
+  }
+
+
+
+  .mt {
+    margin-top: 2em;
+  }
+
+  .nav-link {
+    color: #6F381B;
+    text-transform: capitalize;
+  }
+
+  .nav-link:hover{
+    color: #9d7b69;
+    /* text-decoration: underline; */
+  }
+
+  .btn:hover{
+    background-color: #fefefe;
+  }
+
+  .bd {
+    border: 2px solid #8B4513;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .carousel-item {
+    justify-content: space-between;
+  }
+
+  .carousel-item .col-md-6 {
+    flex: 1;
+  }
+
+  .carousel-inner {
+    display: flex;
+  }
